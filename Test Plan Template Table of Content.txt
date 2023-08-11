@@ -1,0 +1,14 @@
+Test Plan Template Index
+1) Introduction
+2) Scope
+3) Test Strategy (Approach)
+4) Environmental Needs (Test Environment)
+5) Test Deliverables
+6) Exit Criteria
+7) Responsibilities
+8) Risk and Contingencies
+9) Assumptions
+10) Test References
+11) Review and Approvals
+Conclusion
+
